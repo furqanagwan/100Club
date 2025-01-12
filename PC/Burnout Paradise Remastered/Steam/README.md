@@ -1,4 +1,4 @@
-The Location of the file is stored in following location:
+The location of the save file is stored in following location:
 
 Windows
 

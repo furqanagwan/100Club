@@ -9,8 +9,13 @@ Simply download and replace the new save with the old one and keep the AutoLogin
 Save File Type
 BURNOUTPARADISESAVE
 
-Two Saves 
+No of Saves - 2
 
 40% Complete
-
 100% Complete
+
+Saves Tested
+Yes
+
+Interchangable
+Yes

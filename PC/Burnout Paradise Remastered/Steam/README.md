@@ -12,10 +12,13 @@ BURNOUTPARADISESAVE
 Supports multiplle saves
 No
 
+Supports Steam cloud saves
+Yes
+
 Saves Tested with latest version at the time
 Yes
 
-Interchangable
+Interchangable Saves
 Yes
 
 No of Saves - 2

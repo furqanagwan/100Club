@@ -1,4 +1,4 @@
-The Location of the file is stored in following location:
+The location of the save file is stored in following location:
 
 Windows
 
@@ -9,13 +9,16 @@ Simply download and replace the new save with the old one and keep the AutoLogin
 Save File Type
 BURNOUTPARADISESAVE
 
-No of Saves - 2
+Supports multiplle saves
+No
 
-40% Complete
-100% Complete
-
-Saves Tested
+Saves Tested with latest version at the time
 Yes
 
 Interchangable
 Yes
+
+No of Saves - 2
+
+40% Complete
+100% Complete

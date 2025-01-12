@@ -1,45 +1,33 @@
-The location of the save files is stored in following location:
+# GTA San Andreas Definitive Edition Save File Instructions
 
-Windows
+## Save File Location
 
-C:\Users\USER\Documents\Rockstar Games\GTA San Andreas Definitive Edition\Profiles\
+### Windows
+- **Location 1:** `C:\Users\USER\Documents\Rockstar Games\GTA San Andreas Definitive Edition\Profiles\`
+- **Location 2:** `C:\Users\USER\Documents\Rockstar Games\GTA San Andreas Definitive Edition`
 
-OR
+## How to Use Save Files
+1. Download your chosen save file.
+2. Replace or add the downloaded save file to your existing saves folder.
+3. **Do not modify the `.dat` files** for profile and cloud.
+4. This game uses Rockstar's game launcher, which syncs your cloud saves with your Rockstar account.
+5. After adding or replacing save files, choose the **"Use Local Save"** option when prompted by the Rockstar launcher. This will sync your new or replaced saves with Rockstar's servers.
 
-C:\Users\USER\Documents\Rockstar Games\GTA San Andreas Definitive Edition
+## Save File Details
+| Feature                      | Supported       |
+|------------------------------|-----------------|
+| **Save File Type**           | `.SAV`          |
+| **Supports Multiple Saves**  | ✅               |
+| **Number of Save Slots Supported**     | 9 |
+| **Supports Steam Cloud Saves** | ❌               |
+| **Tested with Latest Version** | ✅               |
+| **Interchangeable Saves**    | ✅               |
+| **Game Version Tested**      | 1.112 |
 
-Simply download you chosen save and either replace or add to you existing saves do not touch the .dat  files  for profile and cloud. 
-
-This game runs through rockstars game launcher so it will fetch your cloud saves from your rockstar account. After adding or replacing saves, make sure to use the "use local save" option when given from the rockstar launcher. This will then sync the new or replaced saves with rockstars servers again.
-
-Each save file is incrmented started from 1, therefore the following is acceptable in the save folder
-
-GTASAsf1.sav
-GTASAsf2.sav
-...
-
-where each .sav file is a save file for the game.
-
-Save File Type
-SAV file
-
-Supports multiplle saves
-Yes
-
-Supports Steam cloud saves
-Yes
-
-9 Including one Autosave
-
-Saves Tested with latest version at the time
-Yes
-
-Interchangable Saves
-Yes
-
-No of Saves - 4
-
-26.74% Complete
-55.61% Complete
-75.40% Complete
-100% Complete
+## Save Completion
+| Save File | Progress          |
+|-----------|-------------------|
+| Save 1    | 26.74% Complete   |
+| Save 2    | 55.61% Complete   |
+| Save 3    | 75.40% Complete   |
+| Save 4    | 100% Complete     |

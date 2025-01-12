@@ -1,27 +1,26 @@
-The location of the save file is stored in following location:
+# Burnout Paradise Save File Instructions
 
-Windows
+## Save File Location
 
-C:\Users\USER\AppData\Local\Criterion Games\Burnout Paradise\Save
+### Windows
+- **Location:** `C:\Users\USER\AppData\Local\Criterion Games\Burnout Paradise\Save`
 
-Simply download and replace the new save with the old one and keep the AutoLogin.BurnnoutParridiseSave Untouched
+## How to Use Save Files
+1. Download your chosen save file.
+2. Replace the old save file with the new one in the designated folder.
+3. **Do not modify the `AutoLogin.BurnoutParadiseSave` file.**
 
-Save File Type
-BURNOUTPARADISESAVE
+## Save File Details
+| Feature                      | Supported       |
+|------------------------------|-----------------|
+| **Save File Type**           | `BURNOUTPARADISESAVE` |
+| **Supports Multiple Saves**  | ❌               |
+| **Supports Steam Cloud Saves** | ✅ (EA Play)               |
+| **Interchangeable Saves**    | ✅               |
+| **Game version tested** |                |
 
-Supports multiplle saves
-No
-
-Supports Steam cloud saves
-Yes
-
-Saves Tested with latest version at the time
-Yes
-
-Interchangable Saves
-Yes
-
-No of Saves - 2
-
-40% Complete
-100% Complete
+## Save Completion
+| Save File | Progress          |
+|-----------|-------------------|
+| Save 1    | 40% Complete      |
+| Save 2    | 100% Complete     |

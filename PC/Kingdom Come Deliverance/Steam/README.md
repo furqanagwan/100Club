@@ -1,42 +1,37 @@
-The location of the save file is stored in following location:
+# Kingdom Come: Deliverance Save File Instructions
 
-Windows
+## Save File Location
 
-C:\Users\USER\Saved Games\kingdomcome\saves
+### Windows
+- **Location:** `C:\Users\USER\Saved Games\kingdomcome\saves`
 
-Simply download each playline folder and replace or add them to the saves folder located in the path above.
+## How to Use Save Files
+1. Download the desired playline folder.
+2. Replace or add the downloaded folder to the saves folder located in the path above.
+3. The game supports multiple playlines, each stored as its own folder under the saves directory (e.g., `playline01` corresponds to Playline 1 in-game).
+4. **Do not modify the folder structure.** Each playline contains multiple save points.
+5. If a save requires DLC, ensure the DLC is installed to use it.
 
-This game is a RPG which allows multiple playthrough's and is classed as a playline's. Each playline is under the saves folder as its own folder starting with playline01.
+## Save File Details
+| Feature                      | Supported       |
+|------------------------------|-----------------|
+| **Save File Type**           | `.whs`           |
+| **Supports Multiple Saves**  | ✅               |
+| **Number of Save Slots Supported**     | 300 |
+| **Supports Steam Cloud Saves** | ✅               |
+| **Interchangeable Saves**    | ✅               |
+| **Saves Require DLC**        | ✅ (Save dependent) |
+| **Game Version Tested** |                |
 
-The game also has two difficulties called Normal Mode and Hardcore Mode, but sit under the same playline folder strcuture. 
+## Save Completion
+### Normal Mode
+| Playline   | Save Points       |
+|------------|-------------------|
+| Playline 0 | 1 Save Point      |
+| Playline 1 | 132 Save Points   |
 
-playline0 referes to playline 1 in-game and the playline number is incrmented for every new playthrough.
+### Hardcore Mode
+- Save details not provided.
 
-Each playline can have multiple saves (save points) should the player need to re-do a quest etc.
-
-Save File Type
-WHS file
-
-Supports multiplle saves
-Yes
-
-Supports Steam cloud saves
-Yes
-
-Saves Tested with latest version at the time
-Yes
-
-Interchangable Saves
-Yes
-
-Saves require DLC
-Yes (Save dependent)
-
-No of Saves - 2
-
-Normal Mode - 2
-
-playline0 - 1 Save Point
-playline1 - 132 Save Points
-
-Hardcore Mode
+---
+This game features two difficulties, Normal Mode and Hardcore Mode, which share the same playline folder structure. Playline folders are incremented for every new playthrough (e.g., `playline0`, `playline1`, etc.). Each playline allows multiple saves to accommodate the player’s needs during quests or challenges.

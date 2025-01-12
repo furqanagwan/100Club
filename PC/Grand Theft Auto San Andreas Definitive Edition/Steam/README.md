@@ -26,10 +26,20 @@ SAV file
 Supports multiplle saves
 Yes
 
+Supports Steam cloud saves
+Yes
+
 9 Including one Autosave
 
 Saves Tested with latest version at the time
 Yes
 
-Interchangable
+Interchangable Saves
 Yes
+
+No of Saves - 4
+
+26.74% Complete
+55.61% Complete
+75.40% Complete
+100% Complete
